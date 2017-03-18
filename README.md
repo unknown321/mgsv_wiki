@@ -3,7 +3,7 @@ This is a collection of links to various repositories, Xentax posts and other st
 Commits are welcome.
 
 
-##File system:
+## File system:
 
 1. [Hash algorith (CityHash with seed), use nuget CityHash.Legacy in your C# code](http://forum.xentax.com/viewtopic.php?p=102137#p102137)
 
@@ -11,7 +11,7 @@ Commits are welcome.
 
 3. [More filenames from Paul44 and how to get them, see more posts by him](http://forum.xentax.com/viewtopic.php?p=120393#p120393)
 
-###Tools:
+### Tools:
 
   * [GzsTool for packing and unpacking .dat files](https://github.com/Atvaark/GzsTool/releases)
 	
@@ -27,7 +27,7 @@ Commits are welcome.
  
   * [QuickHash for creating hashes from filenames](https://github.com/BobDoleOwndU/QuickHash)
 
-##Textures:
+## Textures:
 
 1. [Incomplete ftex structure](http://forum.xentax.com/viewtopic.php?p=102286#p102286)
 
@@ -47,11 +47,11 @@ Commits are welcome.
 
 9.	[Small how-to on FtexTool](http://forum.xentax.com/viewtopic.php?p=111915#p111915)
 
-###Tools:
+### Tools:
 
   * [FtexTool](https://github.com/Atvaark/FtexTool/releases)
 
-##Models:
+## Models:
 
 1. [Fmdl structure](http://forum.xentax.com/viewtopic.php?p=102252#p102252)
 
@@ -95,7 +95,7 @@ Commits are welcome.
 
   * [On attaching models to each other](https://unknown321.github.io/mgsv_research/cosmetics.html)
 
-###FV2:
+### FV2:
 
 1. [General info](http://forum.xentax.com/viewtopic.php?p=116912#p116912)
 
@@ -107,7 +107,7 @@ Commits are welcome.
 
 5. [Fv2 research, how-tos and stuff](https://unknown321.github.io/mgsv_research/fv2.html)
 
-##Motions:
+## Motions:
 
 1. [General info](https://unknown321.github.io/mgsv_research/motions.html)
 
@@ -117,7 +117,7 @@ Commits are welcome.
 
   * [MtarTool](https://github.com/BobDoleOwndU/MtarTool)
 
-##Sound:
+## Sound:
 
 1. [Wem files (Regular Wwise audio file, the converter is easy to find online)](http://forum.xentax.com/viewtopic.php?p=102307#p102307)
 
@@ -133,11 +133,11 @@ Commits are welcome.
 
 7. [Soundswapping how-to](https://bobdoleowndu.github.io/mgsv/documentation/soundswapping.html)
 
-###Tools:
+### Tools:
 
   * [FsmTool](https://github.com/BobDoleOwndU/FsmTool)
 
-##Scripts (Lua, XML, etc):
+## Scripts (Lua, XML, etc):
 
 1. [How luas are encrypted](http://forum.xentax.com/viewtopic.php?p=110611#p110611)
 
@@ -173,7 +173,7 @@ Commits are welcome.
 
 17. [Route files](http://forum.xentax.com/viewtopic.php?p=117650#p117650)
 
-###Tools:
+### Tools:
 
   * [FoxTool - various script format support](https://github.com/Atvaark/FoxTool/releases)
 
@@ -183,11 +183,11 @@ Commits are welcome.
 
   * [foxStrCode32 - encode string into numbers to use ingame](http://forum.xentax.com/viewtopic.php?p=111415#p111415)
 
-##UI:
+## UI:
 
 1. [Some ui info](http://forum.xentax.com/viewtopic.php?p=111315#p111315)
 
-##Other:
+## Other:
 
   * [How SnakeBite works](http://forum.xentax.com/viewtopic.php?p=110719#p110719)
   * [Dirty player mechanics](https://www.reddit.com/r/metalgearsolid/comments/4tspby/mgsv_tpp_informational_mentally_and_physically/)
