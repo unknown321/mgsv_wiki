@@ -190,3 +190,4 @@ Commits are welcome.
 ##Other:
 
   * [How SnakeBite works](http://forum.xentax.com/viewtopic.php?p=110719#p110719)
+  * [Dirty player mechanics](https://www.reddit.com/r/metalgearsolid/comments/4tspby/mgsv_tpp_informational_mentally_and_physically/)
