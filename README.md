@@ -133,6 +133,8 @@ Commits are welcome.
 
 7. [Soundswapping how-to](https://bobdoleowndu.github.io/mgsv/documentation/soundswapping.html)
 
+8. [Adding BGM from other missions](: https://github.com/NasaNhak/git-tuppm-src/wiki/Guide:-Adding-BGM-From-Other-Missions)
+
 ### Tools:
 
   * [FsmTool](https://github.com/BobDoleOwndU/FsmTool)
