@@ -193,3 +193,4 @@ Commits are welcome.
 
   * [How SnakeBite works](http://forum.xentax.com/viewtopic.php?p=110719#p110719)
   * [Dirty player mechanics](https://www.reddit.com/r/metalgearsolid/comments/4tspby/mgsv_tpp_informational_mentally_and_physically/)
+  * [Friendly AI vs enemy AI](https://www.reddit.com/r/metalgearsolid/comments/52orl8/is_there_a_mod_for_mgsv_that_allows_you_to_call/d7m8e9k/)
