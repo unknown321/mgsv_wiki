@@ -85,6 +85,8 @@ Commits are welcome.
 
 10. [Tutorial about editing faces](http://forum.xentax.com/viewtopic.php?p=115363#p115363)
 
+11. [Fixing first person for swapped models](https://bobdoleowndu.github.io/mgsv/documentation/perfectfirstperson.html)
+
 ### Other:
 
   * [Mgo hat filenames](http://forum.xentax.com/viewtopic.php?p=114728#p114728)
