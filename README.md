@@ -39,13 +39,15 @@ Commits are welcome.
 
 5. [Weird colour textures store the AO, Spec and Alpha Map on the RGB levels](http://forum.xentax.com/viewtopic.php?p=102214#p102214)
 
-6.	[High-resolution textures](http://forum.xentax.com/viewtopic.php?p=110639#p110639)
+6. [High-resolution textures](http://forum.xentax.com/viewtopic.php?p=110639#p110639)
 
-7.	[Retexturing outfits](http://forum.xentax.com/viewtopic.php?p=111912#p111912)
+7. [Retexturing outfits](http://forum.xentax.com/viewtopic.php?p=111912#p111912)
 
-8.	[How mgo textures are stored](http://forum.xentax.com/viewtopic.php?p=115808#p115808)
+8. [How mgo textures are stored](http://forum.xentax.com/viewtopic.php?p=115808#p115808)
 
-9.	[Small how-to on FtexTool](http://forum.xentax.com/viewtopic.php?p=111915#p111915)
+9. [Small how-to on FtexTool](http://forum.xentax.com/viewtopic.php?p=111915#p111915)
+
+10. [Texture channels](https://joey35233.github.io/)
 
 ### Tools:
 
