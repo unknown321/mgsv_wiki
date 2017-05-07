@@ -179,6 +179,8 @@ Commits are welcome.
 
 17. [Route files](http://forum.xentax.com/viewtopic.php?p=117650#p117650)
 
+18. [Cleaned dump of strings from exe](https://gist.githubusercontent.com/cstBipBop/b96002211b3797723b0182238051c69d/raw/edfba28beb2167bc5d254a352b58340fe13b4591/mgsvtpp_exe_strings.txt)
+
 ### Tools:
 
   * [FoxTool - various script format support](https://github.com/Atvaark/FoxTool/releases)
